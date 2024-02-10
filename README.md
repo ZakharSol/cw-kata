@@ -1,0 +1,2 @@
+# cw-kata
+codewars kata
